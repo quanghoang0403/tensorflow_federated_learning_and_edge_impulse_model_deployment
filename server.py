@@ -20,7 +20,7 @@ server_address = "0.0.0.0:5050"
 profile_and_deploy_model_with_EI = False
 
 # change this to your Edge Impulse API key
-ei.API_KEY = ""
+ei.API_KEY = "ei_7713575c25e626e5ee0d1fab90f1789c7edae1b91c931bfaa2bf78af30157b0d"
 
 # defining a .eim file that will be automatically downloaded on the server computer
 deploy_eim = "modelfile.eim"
